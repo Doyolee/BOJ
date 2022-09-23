@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.StringTokenizer;
-
+ 
 public class Q_1978 {
 
 	public static void main(String[] args) throws IOException {
