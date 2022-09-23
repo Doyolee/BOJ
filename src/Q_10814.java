@@ -1,5 +1,5 @@
+//나이순 정렬
 import java.util.*;
-
 public class Q_10814 {
 
 	public static void main(String[] args) {
