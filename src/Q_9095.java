@@ -26,7 +26,7 @@ public class Q_9095 {
             for(int j=4;j<=n;j++){
                 dp[j] = dp[j - 1] + dp[j - 2] + dp[j - 3];
             }
-
+ 
             System.out.println(dp[n]);
         }
 

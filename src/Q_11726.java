@@ -10,7 +10,7 @@ public class Q_11726 {
 
         dp[1]=1;
         dp[2]=2;
-
+ 
         for(int i=3;i<=n;i++) {
             dp[n] = dp[n - 1] + dp[n - 2]%10007;
         }

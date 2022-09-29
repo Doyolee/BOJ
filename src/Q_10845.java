@@ -53,7 +53,7 @@ public class Q_10845 {
 					sb.append(back+"\n");
 				}
 			}
-			
+		
 				break;
 			}
 		}
